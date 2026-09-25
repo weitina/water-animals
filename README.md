@@ -1,4 +1,4 @@
-# Marine Species Classification
+# Water Animals Classification
 A deep learning project for classifying 13 marine species from images using a Convolutional Neural Network (CNN).
 
 ## Project Overview
@@ -44,8 +44,8 @@ This project focuses on building a complete machine learning workflow for image 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/julialuza/marine-species-ml.git
-cd marine-species-ml
+git clone https://github.com/weitina/water-animals.git
+cd water-animals
 ```
 2. Install dependencies
 ```bash
